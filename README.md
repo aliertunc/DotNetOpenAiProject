@@ -1,44 +1,58 @@
-# 🚀 Open AI .NET Exercises
+# 🚀 Open AI .NET Alıştırmaları
 
-Welcome to the **Open AI .NET Exercises** project! This repository provides an example .NET console application that integrates OpenAI's powerful API features, including text-to-speech, image generation, and much more. It serves as a guide for developers looking to enhance their applications with cutting-edge AI capabilities.
+**Open AI .NET Alıştırmaları** projesine hoş geldiniz! Bu depo, OpenAI'nin güçlü API özelliklerini (metinden konuşmaya, görüntü oluşturma ve daha fazlası) içeren bir .NET konsol uygulaması örneği sunar. Amacımız, geliştiricilerin uygulamalarını en son yapay zeka yetenekleriyle kolayca entegre etmelerine yardımcı olmaktır.
 
-## 📂 Project Structure
+## 📂 Proje Yapısı
 
-The project is organized into several folders, each containing relevant files for specific functionalities:
+Proje aşağıdaki klasörlere ayrılmıştır:
 
-- **Audio** 🎧: Contains audio files generated using text-to-speech (TTS) from the OpenAI API.
-- **Configurations** ⚙️: Stores configuration files required for interacting with the OpenAI API.
-- **Examples** 💡: Includes sample code and use cases of how OpenAI features are utilized in .NET.
-- **Images** 🖼️: Houses images generated using DALL-E (OpenAI's image generation model).
+- **Audio** 🎧  
+  OpenAI API'nin metinden konuşmaya (TTS) özelliği kullanılarak oluşturulan ses dosyalarını içerir.  
+- **Configurations** ⚙️  
+  OpenAI API ile etkileşim kurmak için gereken yapılandırma dosyalarını barındırır.  
+- **Examples** 💡  
+  OpenAI özelliklerinin .NET içinde nasıl kullanıldığını gösteren örnek kod ve kullanım durumlarını içerir.  
+- **Images** 🖼️  
+  OpenAI’nin DALL-E modeli kullanılarak oluşturulan görüntüleri barındırır.
 
-## 🔧 Features
+## 🔧 Özellikler
 
-This project demonstrates the integration of the following OpenAI functionalities:
+Bu projede aşağıdaki OpenAI işlevleri entegrasyonla birlikte gösterilmektedir:
 
-- **Text-to-Speech (TTS)**: Convert text input into human-like speech using the OpenAI API.
-- **Image Generation with DALL-E**: Generate creative images from text descriptions with OpenAI's DALL-E.
-- **API Integration**: Examples of how to configure and call the OpenAI API within a .NET console application.
-- **Real-world Use Cases**: Practical scenarios to help you apply OpenAI features effectively in your projects.
+- **Metinden Konuşmaya (TTS)**  
+  OpenAI API kullanılarak metin girişini insan benzeri konuşmaya dönüştürme.  
+- **DALL-E ile Görüntü Oluşturma**  
+  Metin açıklamalarından yaratıcı görüntüler oluşturma.  
+- **API Entegrasyonu**  
+  OpenAI API'yi bir .NET konsol uygulaması içinde yapılandırma ve çağırma örnekleri.  
+- **Gerçek Dünya Kullanım Durumları**  
+  OpenAI özelliklerini projelerinizde etkili bir şekilde uygulamanıza yardımcı olacak pratik senaryolar.
 
-## 🌐 More Examples
+## 🌐 Daha Fazla Örnek
 
-For more detailed examples and additional use cases, visit the full repository at:  
-[**OpenAI .NET Exercises - GitHub**](https://github.com/KardelRuveyda/openai-dotnet-exercises)
+Daha ayrıntılı örnekler ve ek kullanım durumları için tam depoyu ziyaret edin:  
+[**OpenAI .NET Alıştırmaları - GitHub**](https://github.com/KardelRuveyda/openai-dotnet-exercises)
 
-## 🧑‍💻 Technologies
+## 🧑‍💻 Teknolojiler
 
-- **C#**
-- **.NET 6+**
+- **C#**  
+- **.NET 6+**  
 - **OpenAI API**
 
-## 📜 License
+## 📜 Lisans
 
-This project is licensed under the MIT License. See `LICENSE` for more details.
+Bu proje, MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
 
-## 🤝 Contributing
+## 🤝 Katkıda Bulunun
 
-Feel free to fork this repository, open issues, and submit pull requests to contribute improvements and examples!
+Bu projeye katkıda bulunmak isterseniz:
+
+1. Repoyu fork edin.
+2. Yeni bir dal oluşturun: `git checkout -b yeni-ozellik`.
+3. Değişikliklerinizi yapın ve commit edin: `git commit -m "Yeni bir özellik eklendi"`.
+4. Dalınızı gönderin: `git push origin yeni-ozellik`.
+5. Bir **Pull Request** açın.
 
 ---
 
-We hope this repository helps you explore and integrate OpenAI's powerful API into your .NET applications with ease and creativity! ✨
+Bu deponun, OpenAI'nin güçlü API'sini .NET uygulamalarınıza kolaylıkla ve yaratıcılıkla entegre etmenize yardımcı olmasını umuyoruz! ✨  
